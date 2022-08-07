@@ -1,0 +1,31 @@
+{
+  "name": "Task-project",
+  "version": "1.0.0",
+  "description": "Assessment",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "author": "harsh Garg",
+  "license": "ISC",
+  "dependencies": {
+  
+    
+    
+
+    "cors": "^2.8.5",
+    
+    "dotenv": "^14.3.0",
+    "express": "^4.17.2",
+    "http-status-codes": "^2.2.0",
+    
+    "mongoose": "^6.1.8",
+
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.15"
+  
+  
+  }
+}
